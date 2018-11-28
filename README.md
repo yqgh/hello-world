@@ -5,7 +5,3 @@ public static void main(String[] args){
   hashMap.put("name","袁群");
   hashMap.put("age","24");
 }
-public static void test(int length){
-  int j=i/2;
-  system.out.println("J:"+j);
-}
